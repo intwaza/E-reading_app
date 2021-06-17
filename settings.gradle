@@ -1,0 +1,2 @@
+rootProject.name = "E-reading app"
+include ':app'
