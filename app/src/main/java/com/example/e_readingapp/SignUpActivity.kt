@@ -54,7 +54,7 @@ class SignUpActivity : AppCompatActivity() {
             }
             else{
                 error = true
-                Toast.makeText(baseContext,"select Nationality", Toast.LENGTH_LONG).show()
+                Toast.makeText(baseContext,"select Gender", Toast.LENGTH_LONG).show()
             }
 
             var password=etPassword.text.toString()
